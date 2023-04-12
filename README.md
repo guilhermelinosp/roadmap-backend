@@ -42,13 +42,6 @@
 
 ## Parte 1 | Escolher uma Linguagem
 
-### 📚 | Javascript
-- [Curso do Curso em Vídeo](https://www.youtube.com/watch?v=BXqUH86F-kA&list=PLntvgXM11X6pi7mW0O4ZmfUI1xDSIbmTm)
-- [Curso do CFBCursos](https://www.youtube.com/watch?v=lcKo-ycLDNw&list=PLx4x_zx8csUj3IbPQ4_X5jis_SkCol3eC)
-- [Curso do Matheus Battisti](https://www.youtube.com/watch?v=TkD0QMyBa28&list=PLnDvRpP8BneysKU8KivhnrVaKpILD3gZ6)
-- [Curso do Edson Maia](https://www.youtube.com/watch?v=E1Ww5Y1EnWQ&list=PLnex8IkmReXxZEXje06kW1uCwm5iC8M_Z)
-- [Curso do João Ribeiro](https://www.youtube.com/watch?v=pOoP8DE_H70&list=PLXik_5Br-zO-h6HFz_aYmQmb0HshP135F)
-
 ### 📚 | Typescript
 - [Curso do Glaucia Lemos](https://www.youtube.com/watch?v=u7K1sdnCv5Y&list=PLb2HQ45KP0Wsk-p_0c6ImqBAEFEY-LU9H)
 - [Curso do DevDojo](https://www.youtube.com/watch?v=67ki0t_VWc0&list=PL62G310vn6nGg5OzjxE8FbYDzCs_UqrUs)
