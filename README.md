@@ -20,14 +20,11 @@
 - [Curso do Boson Treinamentos](https://www.youtube.com/watch?v=41ubXTEPFO0&list=PLucm8g_ezqNpYL-z-lutCuBplhx9aqkdd)
 - [Curso do Node Studio Treinamentos](https://www.youtube.com/watch?v=4ZAOWlZRbZk&list=PLwXQLZ3FdTVG_mqZcOXhfFf3Po6whFv8o)
 
-### 📚 | Bash/Shell
+### 📚 | Bash && Powershell
 
 - [Curso do Geofisicando](https://www.youtube.com/watch?v=HRRfgufskaw&list=PLLCFxfe9wkl-k0w-c_1i4sdZPUYt0Yc2P)
 - [Curso do Boson Treinamentos](https://www.youtube.com/watch?v=EOLPUc6oo-w&list=PLucm8g_ezqNrYgjXC8_CgbvHbvI7dDfhs)
 - [Curso do Debxp](https://www.youtube.com/watch?v=yHDzFRWmLGA&list=PLXoSGejyuQGr53w4IzUzbPCqR4HPOHjAI)
-
-### 📚 | Powershell
-
 - [Curso do Boson Treinamentos](https://www.youtube.com/watch?v=dL7VygdWdd4&list=PLucm8g_ezqNpdK1sHdiDC3T8VMANcT5WZ)
 - [Curso do Professor Ramos](https://www.youtube.com/watch?v=IoFmRUdsAUc&list=PL35Zp8zig6slB_EaLbwKP57L9weBfICtS)
 - [Curso do Instituto de Script's](https://www.youtube.com/watch?v=uEBb-d954M4&list=PLO_mlVzHgDw3EIKrT5rma_rmC4Lcc7ihT)
