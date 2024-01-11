@@ -2,12 +2,9 @@
 
 <div align="center">
 <p>🚧 It is in Development 🚧</p>
-<details>
-<summary>Clique Aqui</summary>
 </br>
 
 ![image 1](/.github/backend.jpg)
-</details>
 </div>
 </br>
 
