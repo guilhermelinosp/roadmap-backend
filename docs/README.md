@@ -1,12 +1,4 @@
-# <div align="center"> Roadmap Back end </div>
-
-<div align="center">
-<p>🚧 It is in Development 🚧</p>
-</br>
-
-![image 1](/.github/backend.jpg)
-</div>
-</br>
+# <div align="center"> Roadmap Backend </div>
 
 ## Parte 0 | Conhecimento básico geral
 
