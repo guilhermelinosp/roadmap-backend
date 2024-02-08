@@ -71,10 +71,10 @@
 - [Curso do One Bit Code](https://www.youtube.com/watch?v=2js9Q_BMD-8&list=PLdDT8if5attEOcQGPHLNIfnSFiJHhGDOZ)
 
 ### 📚 | Go
-- [Curso do Aprenda Go](https://www.youtube.com/watch?v=WiGU_ZB-u0w&list=PLCKpcjBB_VlBsxJ9IseNxFllf-UFEXOdg)
-- [Curso do NBK Mundo Tech](https://www.youtube.com/watch?v=WQ-mg59x9PU&list=PLUbb2i4BuuzCX8CLeArvx663_0a_hSguW)
-- [Curso do Eliseu Codinhoto](https://www.youtube.com/watch?v=SyNz6uos_qA&list=PLXFk6ROPeWoAvLMyJ_PPfu8oF0-N_NgEI)
-- [Curso do HunCoding](https://www.youtube.com/watch?v=eJq_D9at6ec&list=PLm-xZWCprwYSlEHjZDvhaq9izo3AVbiRO)
+- [Curso do Aprenda Go](https://www.youtube.com/playlist?list=PLCKpcjBB_VlBsxJ9IseNxFllf-UFEXOdg)
+- [Curso do NBK Mundo Tech](https://www.youtube.com/playlist?list=PLUbb2i4BuuzCX8CLeArvx663_0a_hSguW)
+- [Curso do Eliseu Codinhoto](https://www.youtube.com/playlist?list=PLXFk6ROPeWoAvLMyJ_PPfu8oF0-N_NgEI)
+- [Curso do HunCoding](https://www.youtube.com/playlist?list=PLm-xZWCprwYSlEHjZDvhaq9izo3AVbiRO)
 - [Aprenda Golang](https://www.youtube.com/playlist?list=PLHPgIIn9ls6-1l7h8RUClMKPHi4NoKeQF)
 
 
