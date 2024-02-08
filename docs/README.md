@@ -75,6 +75,6 @@
 - [Curso do NBK Mundo Tech](https://www.youtube.com/watch?v=WQ-mg59x9PU&list=PLUbb2i4BuuzCX8CLeArvx663_0a_hSguW)
 - [Curso do Eliseu Codinhoto](https://www.youtube.com/watch?v=SyNz6uos_qA&list=PLXFk6ROPeWoAvLMyJ_PPfu8oF0-N_NgEI)
 - [Curso do HunCoding](https://www.youtube.com/watch?v=eJq_D9at6ec&list=PLm-xZWCprwYSlEHjZDvhaq9izo3AVbiRO)
-- [Curso do Filho da nuvem](https://www.youtube.com/watch?v=x71w5wOKf9E&list=PLzehOqhpwpxhhLnKRWF_XyJtPY0dnm1iJ)
+- ([Aprenda Golang](https://www.youtube.com/playlist?list=PLHPgIIn9ls6-1l7h8RUClMKPHi4NoKeQF)https://www.youtube.com/playlist?list=PLHPgIIn9ls6-1l7h8RUClMKPHi4NoKeQF)
 
 
